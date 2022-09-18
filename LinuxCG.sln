@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32510.428
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxCG", "LinuxCG.csproj", "{7F9424EB-817B-4873-A94E-0CD3722B0929}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxCG", "LinuxCG.csproj", "{55EA107B-D9C9-4141-9FB2-78E5C0105122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F9424EB-817B-4873-A94E-0CD3722B0929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F9424EB-817B-4873-A94E-0CD3722B0929}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F9424EB-817B-4873-A94E-0CD3722B0929}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F9424EB-817B-4873-A94E-0CD3722B0929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EA107B-D9C9-4141-9FB2-78E5C0105122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EA107B-D9C9-4141-9FB2-78E5C0105122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EA107B-D9C9-4141-9FB2-78E5C0105122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EA107B-D9C9-4141-9FB2-78E5C0105122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {69D3F209-A2C4-4A99-94B0-C4E4303B2819}
+		SolutionGuid = {3D3353A1-4BC4-4394-B900-F92B246C530E}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\bin\Debug\net6.0\LinuxCG.exe
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\bin\Debug\net6.0\LinuxCG.deps.json
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\bin\Debug\net6.0\LinuxCG.runtimeconfig.json
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\bin\Debug\net6.0\LinuxCG.dll
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\bin\Debug\net6.0\ref\LinuxCG.dll
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\bin\Debug\net6.0\LinuxCG.pdb
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.csproj.AssemblyReference.cache
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.AssemblyInfoInputs.cache
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.AssemblyInfo.cs
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.csproj.CoreCompileInputs.cache
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.dll
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\ref\LinuxCG.dll
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.pdb
+C:\Users\Egor.Polozhentsev\Desktop\LinuxCG\obj\Debug\net6.0\LinuxCG.genruntimeconfig.cache
